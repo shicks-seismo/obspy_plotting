@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 """
 Script to download and plot RaspberryShake station data
-Also computes and plots theoretical phase arrival times and raypaths
+Also computes and plots theoretical phase arrival times and raypaths.
+
+See https://docs.obspy.org/packages/obspy.taup.html for more info on 
+Earth models and phase-nmaing nomenclature.
 
 Stephen Hicks
 Imperial College London
